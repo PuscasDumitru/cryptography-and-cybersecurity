@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/x8egG0ARWn93fZlkyswUM2UzDU0zqtXw+NhPkcgybbHo09fCJ3JW5YzDTcD6FYXVXApc0022oMeWdBzKVsFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimasio\\source\\repos\\audit\\audit\\audit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimasio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
