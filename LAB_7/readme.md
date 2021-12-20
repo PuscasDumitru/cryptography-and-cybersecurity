@@ -12,6 +12,6 @@ The implemented features are:
 
 ##### Demo:
 
-![demo](https://github.com/PuscasDumitru/FAF.CS16.1-Cryptography-and-Cybersecurity-LABS/blob/main/LAB_7/lab7.gif)
+![demo](https://github.com/PuscasDumitru/FAF.CS16.1-Cryptography-and-Cybersecurity-LABS/blob/main/LAB_7/lab_7.gif)
 
 
