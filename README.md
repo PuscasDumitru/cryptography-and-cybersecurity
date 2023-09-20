@@ -1,4 +1,4 @@
-# Cryptography and Cybersecurity
+# Cryptography and Cybersecurity Course
 
 #### LAB_1
 
